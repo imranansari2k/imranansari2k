@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranansari2k&label=Profile%20views&color=0e75b6&style=flat" alt="imranansari2k" /> </p>
 
-- ?? I’m currently learning **Java**
+- ?? I’m currently learning **Java, Java Script**
 
-- ????? All of my projects are available at [www.ansariji.free.nf](www.ansariji.free.nf)
-
-- ?? I regularly write articles on [ansariji.free.nf](ansariji.free.nf)
+This is my Website [www.ansariji.free.nf](www.ansariji.free.nf)
 
 - ?? How to reach me **imranansari2k@gmail.com**
 
-- ? Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
